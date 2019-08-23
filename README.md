@@ -1,3 +1,3 @@
 # gittest
 gittest
-WWW
+pull
